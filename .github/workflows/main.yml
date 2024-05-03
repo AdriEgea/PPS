@@ -1,0 +1,5 @@
+name: comprobar gitleaks
+run-name:  |
+  gitleaks .
+on: [push]
+
